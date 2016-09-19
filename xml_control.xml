@@ -1,0 +1,13 @@
+<files>
+<file id="1" path="http://xml.gamebai.me/table_name.xml" version="4" name="tablename"/>
+<file id="2" path="http://xml.gamebai.me/game_guide.xml" version="23" name="gameguide"/>
+<file id="3" path="http://xml.gamebai.me/game_message.xml" version="14" name="gamemessage"/>
+<file id="4" path="http://xml.gamebai.me/zone_control.xml" version="27" name="zone"/>
+<file id="5" path="http://xml.gamebai.me/core.xml" version="61" name="core"/>
+<file id="6" path="http://xml.gamebai.me/policy.xml" version="8" name="policy"/>
+<file id="7" path="http://xml.gamebai.me/social.xml" version="9" name="social"/>
+<file id="8" path="http://xml.gamebai.me/welcome.xml" version="11" name="welcome"/>
+<file id="9" path="http://xml.gamebai.me/iap.xml" version="13" name="iap"/>
+<file id="10" path="http://xml.gamebai.me/off.xml" version="22" name="off"/>
+<file id="11" path="http://xml.gamebai.me/version.xml" version="9" name="version"/>
+</files>
