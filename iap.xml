@@ -1,0 +1,10 @@
+<products>
+<product id="productid6" value="200000" price="20000" type="android"/>
+<product id="productid2" value="400000" price="40000" type="android"/>
+<product id="productid3" value="1000000" price="100000" type="android"/>
+<product id="productid4" value="4000000" price="400000" type="android"/>
+<product id="productid5" value="10000000" price="1000000" type="android"/>
+<product id="buyproduction01" value="200000" price="1 USD" type="ios"/>
+<product id="buyproduction02" value="400000" price="2 USD" type="ios"/>
+<product id="buyproduction03" value="800000" price="4 USD" type="ios"/>
+</products>

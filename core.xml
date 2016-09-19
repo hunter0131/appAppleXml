@@ -1,0 +1,25 @@
+<items>
+<server port="6886" ip="api.gamebai.me"/>
+<currency value="XU"/>
+<email value="gamebai@gmail.com"/>
+<phone value="0934643049"/>
+<wapsite value="http://gamebai.me"/>
+<facebook value="http://m.facebook.com/gamebai.me"/>
+<version-code value="1"/>
+<xml-link value="http://125.212.192.97/resource/xml/"/>
+<image-link value="http://cms.gamebai.me/avatars"/>
+<item-link value="http://cms.gamebai.me/items/"/>
+<image-upload value="http://cms.gamebai.me/upload"/>
+<smspass-tel value="7x8x"/>
+<smspass-price value="500"/>
+<smspass-vt value="GB MK"/>
+<smspass-vina value="GB MK"/>
+<smspass-mobi value="GB MK"/>
+<timeout-ping value="17"/>
+<timeout-ready value="5"/>
+<timeout-start value="5"/>
+<timeout-countdown value="5"/>
+<invite-money value="200"/>
+<invite-time value="10"/>
+<min-Table-proportion value="100"/>
+</items>

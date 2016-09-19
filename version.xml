@@ -1,0 +1,5 @@
+<versions>
+<version id="wp" values="2" link="http://app.tuqu.biz" message="Vui lòng nâng cấp phiên bản mới 2.0, để tiếp tục chơi tiếp" isupdate="0"/>
+<version id="ios" values="2" link="http://app.tuqu.biz" message="Vui lòng nâng cấp phiên bản mới 2.0, để tiếp tục chơi tiếp" isupdate="1"/>
+<version id="ad" values="2" link="http://app.tuqu.biz" message="Vui lòng nâng cấp phiên bản mới 2.0, để tiếp tục chơi tiếp" isupdate="2"/>
+</versions>

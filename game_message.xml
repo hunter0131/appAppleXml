@@ -1,0 +1,125 @@
+<templates>
+<zone id="10">
+<item value="Chẵn rồi !"/>
+<item value="Lẻ rồi !"/>
+<item value="Chẵn chẵn chẵn !!!"/>
+<item value="Lẻ lẻ lẻ !!!"/>
+<item value="Liều ăn nhiều"/>
+<item value="Nạp thêm tiền đê"/>
+<item value="Đỏ quá !!!"/>
+<item value="Nhọ rồi"/>
+<item value="Đặt nhiều vào bà con"/>
+</zone>
+<zone id="5">
+<item value="Nhanh lên!"/>
+<item value="Đánh hay lắm"/>
+<item value="Nạp thêm tiền đi, he he"/>
+<item value="Chết chưa cưng"/>
+<item value="Hên quá!"/>
+<item value="Thắng rồi! Yeah"/>
+<item value="Xin chào"/>
+<item value="Bắt đầu đi"/>
+<item value="Sẵn sàng đi"/>
+<item value="Tăng tiền đi"/>
+<item value="Cả làng chuẩn bị xuống tiền ^^"/>
+<item value="Solo không?"/>
+</zone>
+<zone id="9">
+<item value="Tố to vào"/>
+<item value="Tất tay"/>
+<item value="Đen vãi!!!"/>
+<item value="Đỏ quá!"/>
+<item value="Cho xem bài với"/>
+<item value="Nhanh lên đợi dài cả cổ"/>
+<item value="Nạp thêm tiền đi"/>
+<item value="Xin chào"/>
+<item value="Thắng rồi!!!"/>
+<item value="Rủ thêm bạn chơi đi"/>
+<item value="Giàu rồi, hê hê"/>
+<item value="Cả làng chuẩn bị tiền ^^"/>
+</zone>
+<zone id="37">
+<item value="Sâm rồi. Cả làng chuẩn bị xuống tiền!!"/>
+<item value="Báo sâm đi"/>
+<item value="Hên quá"/>
+<item value="Đánh hay lắm"/>
+<item value="Nạp thêm tiền đi"/>
+<item value="Xin chào"/>
+<item value="Bắt đầu đi"/>
+<item value="Sẵn sàng đi"/>
+<item value="Tăng tiền đi"/>
+<item value="Đen vãi"/>
+<item value="Solo không?"/>
+<item value="Thắng rồi!!"/>
+</zone>
+<zone id="1">
+<item value="Đặt to vào"/>
+<item value="Tất tay"/>
+<item value="Đen vãi!!!"/>
+<item value="Hên quá!"/>
+<item value="Cướp chương, he he"/>
+<item value="Xin chương"/>
+<item value="Nạp thêm tiền đi"/>
+<item value="Xin chào"/>
+<item value="Bắt đầu đi"/>
+<item value="Sẵn sàng đi"/>
+<item value="Tăng tiền đi"/>
+<item value="Cả làng chuẩn bị tiền ^^"/>
+</zone>
+<zone id="4">
+<item value="Nhanh lên!"/>
+<item value="Cháy rồi"/>
+<item value="Đen vãi!!!"/>
+<item value="Mình xin..."/>
+<item value="Ăn đêêêê"/>
+<item value="Xin con chốt"/>
+<item value="Hay lắm"/>
+<item value="Nhọ quá"/>
+<item value="Xin chào"/>
+<item value="Bắt đầu đi"/>
+<item value="Sẵn sàng đi"/>
+<item value="Tăng tiền đi"/>
+</zone>
+<zone id="38">
+<item value="Xin chào"/>
+<item value="Đặt to vào!"/>
+<item value="Kém thế, con gà :P"/>
+<item value="Chơi tiếp chứ"/>
+<item value="Thùng phá sảnh rồi. ^^"/>
+<item value="Bài đẹp lắm"/>
+<item value="Đúng là cao thủ"/>
+<item value="Tất tay"/>
+<item value="Nạp thêm tiền đi"/>
+<item value="Thần tài đến rồi, hehe"/>
+<item value="Bài đen v~"/>
+<item value="Lỗ to rồi.;("/>
+</zone>
+<zone id="14">
+<item value="Xin chào"/>
+<item value="Bắt đầu đi, đợi dài cổ!"/>
+<item value="Thùng phá sảnh đến"/>
+<item value="Xuống tiền!!!"/>
+<item value="Xếp nhanh lên em ơi"/>
+<item value="Thần tài đến rồi :))"/>
+<item value="Đỏ quá xá"/>
+<item value="Sang bàn nhiều tiền hơn đêêê"/>
+<item value="Đen voãi"/>
+<item value="Cả làng chuẩn bị xuống tiền, hehe"/>
+<item value="Nạp thêm tiền đi!!!"/>
+<item value="Nhọ rồi.;("/>
+</zone>
+<zone id="13">
+<item value="Xin chào"/>
+<item value="Bắt đầu đi, đợi dài cổ!"/>
+<item value="Tố to vào"/>
+<item value="Tất tay!!!"/>
+<item value="Bắt đầu đi"/>
+<item value="Thần tài đến rồi :))"/>
+<item value="Đỏ quá xá"/>
+<item value="Sang bàn nhiều tiền hơn đêêê"/>
+<item value="Đen quá"/>
+<item value="Xuống tiền, hehe"/>
+<item value="Nạp thêm tiền đi!!!"/>
+<item value="Nhọ rồi.;("/>
+</zone>
+</templates>

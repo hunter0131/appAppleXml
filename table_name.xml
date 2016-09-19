@@ -1,0 +1,36 @@
+<name>
+<zone id="5" default="5">
+<item id="1" name="Nhiều tiền thì vào"/>
+<item id="2" name="Zui là chính"/>
+<item id="3" name="4 đôi thông"/>
+<item id="4" name="Dân chuyên nghiệp"/>
+<item id="5" name="Đừng để thúi 2"/>
+<item id="6" name="Chỉ solo thôi"/>
+</zone>
+<zone id="4" default="3">
+<item id="1" name="Nhiều tiền thì vào"/>
+<item id="2" name="Zui là chính"/>
+<item id="3" name="Dân chuyên nghiệp"/>
+<item id="4" name="Săn cây chốt"/>
+<item id="5" name="Tái gửi ù đền"/>
+<item id="6" name="Gà đừng vào"/>
+</zone>
+<zone id="37" default="1">
+<item id="1" name="Nhiều tiền thì vào"/>
+<item id="2" name="Zui là chính"/>
+<item id="3" name="Dân chuyên nghiệp"/>
+<item id="4" name="Giỏi là phải báo sâm"/>
+<item id="5" name="Chỉ solo thôi"/>
+</zone>
+<zone id="11" default="1">
+<item id="1" name="Nhiều tiền thì vào"/>
+<item id="2" name="Đen bạc đỏ tình"/>
+<item id="3" name="Cược to vào"/>
+</zone>
+<zone id="3" default="1">
+<item id="1" name="Zui là chính"/>
+<item id="2" name="Giỏi thì vào"/>
+<item id="3" name="Đi tìm triệu phú"/>
+<item id="4" name="Đang luyện tập nhé"/>
+</zone>
+</name>
